@@ -5,8 +5,6 @@
 - 🔭 I’m currently privately working on
 - 🌱 I’m currently learning: Cloud Networking, Python & GoLang
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathwro&label=Profile%20views&color=0e75b6&style=flat" alt="mathwro" /> </p>
-
 <h3 align="left">Certifications:</h3>
 
  - AWS Certified Cloud Practitioner (CBP)
