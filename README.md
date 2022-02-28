@@ -8,9 +8,10 @@
 <h3 align="left">Certifications:</h3>
 
  - AWS Certified Cloud Practitioner (CBP)
- - Azure: Azure Fundamentals (AZ-900)
- - Azure: Azure Administrator Associate (AZ-104)
+ - Azure: Fundamentals (AZ-900)
+ - Azure: Administrator Associate (AZ-104)
  - Azure: DevOps Engineer Expert (AZ-400)
+ - Azure: Network Engineer Associate (AZ-700)
  - Linux Foundation: Certified Kubernetes Application Developer (CKAD)
  - Linux Foundation: Certified Kubernetes Administrator (CKAD)
  - HashiCorp: Terraform Associate
