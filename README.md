@@ -7,7 +7,7 @@
 
 <h3 align="left">Certifications:</h3>
 
- - AWS Certified Cloud Practitioner (CBP)
+ - AWS Certified Cloud Practitioner (CLF-C01)
  - Azure: Fundamentals (AZ-900)
  - Azure: Administrator Associate (AZ-104)
  - Azure: DevOps Engineer Expert (AZ-400)
