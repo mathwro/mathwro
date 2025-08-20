@@ -3,22 +3,11 @@
 - 💬 Ask me about: everything cloud!
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently privately working on: A personal website to be used as a resume and blog
-- 🌱 I’m currently learning: Multi-Cloud Networking, GoLang & C# / Blazor
+- 🌱 I’m currently learning: Backend development with GoLang & Python
 
-<h3 align="left">Certifications:</h3>
-
- - AWS Certified Cloud Practitioner (CLF-C01)
- - Azure: Fundamentals (AZ-900)
- - Azure: Administrator Associate (AZ-104)
- - Azure: DevOps Engineer Expert (AZ-400)
- - Azure: Network Engineer Associate (AZ-700)
- - Microsoft: Security, Compliance and Identity Fundamentals (SC-900)
- - Linux Foundation: Certified Kubernetes Application Developer (CKAD)
- - Linux Foundation: Certified Kubernetes Administrator (CKAD)
- - HashiCorp: Terraform Associate
- - Python Institute: Python Fundamentals (PCEP)
- - Aviatrix (ACE): Multi-Cloud Network Associate
- - Aviatrix (ACE): Multi-Cloud Network Professional
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/5fa1438f-9e31-4142-bfab-949e5b0dcb09/thumbnail" >
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
