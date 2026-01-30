@@ -5,6 +5,8 @@
 - 🔭 I’m currently privately working on: A personal website to be used as a resume and blog
 - 🌱 I’m currently learning: Backend development with GoLang & Python
 
+Blogging about Cloud, DevOps and related topics on [mwrobel.io](https://mwrobel.io)
+
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/5fa1438f-9e31-4142-bfab-949e5b0dcb09/thumbnail" >
 </p>
