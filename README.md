@@ -4,12 +4,12 @@ Platform engineer and cloud architect focused on Kubernetes, cloud infrastructur
 
 Most of my background is within Azure and infrastructure engineering, but my current interests are heavily centered around:
 
-Platform Engineering
-Kubernetes & GitOps
-Internal Developer Platforms
-Cloud-native tooling
-Infrastructure Automation
-Developer Experience & AI tooling
+- Platform Engineering
+- Kubernetes & GitOps
+- Internal Developer Platforms
+- Cloud-native tooling
+- Infrastructure Automation
+- Developer Experience & AI tooling
 
 I enjoy building systems that enable developers to deploy and operate applications reliably at scale.
 
