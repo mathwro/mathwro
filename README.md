@@ -1,11 +1,24 @@
 ### Hi there 👋
 
-- 💬 Ask me about: everything cloud!
-- 😄 Pronouns: He/Him
-- 🔭 I’m currently privately working on: A personal website to be used as a resume and blog
-- 🌱 I’m currently learning: Backend development with GoLang & Python
+Platform engineer and cloud architect focused on Kubernetes, cloud infrastructure, automation and developer platforms.
 
-Blogging about Cloud, DevOps and related topics on [mwrobel.io](https://mwrobel.io)
+Most of my background is within Azure and infrastructure engineering, but my current interests are heavily centered around:
+
+Platform Engineering
+Kubernetes & GitOps
+Internal Developer Platforms
+Cloud-native tooling
+Infrastructure Automation
+Developer Experience & AI tooling
+
+I enjoy building systems that enable developers to deploy and operate applications reliably at scale.
+
+🌱 I’m currently building:
+  - AI Tooling and MCP integrations.
+  - Cloud-native automation tools
+  - Writing technical content on cloud infrastructure and DevOps
+
+🌍 Blog: [mwrobel.io](https://mwrobel.io)
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/5fa1438f-9e31-4142-bfab-949e5b0dcb09/thumbnail" >
