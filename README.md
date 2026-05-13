@@ -16,7 +16,7 @@ I enjoy building systems that enable developers to deploy and operate applicatio
 🌱 I’m currently building:
   - AI Tooling and MCP integrations.
   - Cloud-native automation tools
-  - Writing technical content on cloud infrastructure and DevOps
+  - Writing technical content on platform engineering, cloud infrastructure and DevOps
 
 🌍 Blog: [mwrobel.io](https://mwrobel.io)
 
